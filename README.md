@@ -2,6 +2,8 @@
 A collection of curated courses, blogs &amp; other helpful content for learning iOS.
 
 
+>  What I cannot create, I do not understand. ~ Richard Feynman
+
 ## YT Resources:
 
 Swift Language: 
@@ -10,13 +12,24 @@ Swift Language:
   
 - https://youtu.be/CwA1VWP0Ldw
 
-UIKit: https://youtu.be/JzngncpZLuw
+UIKit: 
 
-SwiftUI: https://youtu.be/b1oC7sLIgpI
+- https://youtu.be/JzngncpZLuw
 
-MVVM: https://youtu.be/KCgYDCKqato
+SwiftUI: 
 
-Keep searching on yt and you can try different people's style and stick to the one you are comfortable with.
+- https://youtu.be/b1oC7sLIgpI
+
+MVVM: 
+
+- https://youtu.be/KCgYDCKqato
+
+
+---
+
+Keep searching on yt and you can try different people's style and stick to the one you are comfortable with or suits you.
+
+---
 
 ## 100 Days of Code:
 
@@ -27,12 +40,14 @@ Keep searching on yt and you can try different people's style and stick to the o
 
 ## Technical articles & Blogs: 
 
-nilcoalescing: nilcoalescing.com
+nilcoalescing: https://nilcoalescing.com
 
-NSHipster: nshipster.com
+NSHipster: https://nshipster.com
 
-SwiftLee: avanderlee.com
+SwiftLee: https://avanderlee.com
 
-hacking with swift: hackingwithswift.com
+hacking with swift: https://hackingwithswift.com
 
-Kodeco: kodeco.com/ios/articles
+Kodeco: https://kodeco.com/ios/articles
+
+>  Stay hungry, Stay foolish. ~ Steve Jobs
