@@ -37,6 +37,11 @@ Keep searching on yt and you can try different people's style and stick to the o
 
 100 Days of SwiftUI: https://docs.google.com/spreadsheets/d/1pJqZr7IDGXs7fEZEkG8W7l0G3EV39SdzLe6xgHWEQeY
 
+## Apple developer resources:
+
+Swift Blogs: https://www.swift.org/blog
+
+Swift Evolution: https://www.swift.org/swift-evolution
 
 ## Technical articles & Blogs: 
 
