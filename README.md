@@ -3,4 +3,12 @@ A collection of curated courses, blogs &amp; other helpful content for learning 
 
 ## YT Resources:
 
-Swift Language: (https://youtu.be/CwA1VWP0Ldw?si=FXY4KtPsZ4Ysycq0)
+Swift Language: https://youtu.be/CwA1VWP0Ldw
+UIKit: https://youtu.be/JzngncpZLuw
+SwiftUI: https://youtu.be/b1oC7sLIgpI
+
+## 100 Days of Code:
+
+swift:
+SwiftUI:
+
