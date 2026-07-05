@@ -56,6 +56,4 @@ hacking with swift: https://hackingwithswift.com
 Kodeco: https://kodeco.com/ios/articles
 
 
-iOS Programming Questions Sheet: https://docs.google.com/document/d/1nSgEDt2o5ab7HE58ghfUEqvmZ4xU9U4McZsetX7zSNM
-
 >  Stay hungry, Stay foolish. ~ Steve Jobs
